@@ -1,0 +1,1 @@
+This is a simple website created using HTML,CSS & Javascript with smooth scroll effects. As a new developer this served as great practice for me to shrapen my skills.
